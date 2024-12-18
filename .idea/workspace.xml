@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="69a807ed-841c-4a45-acfe-a33b01ac14cb" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/PythonProject3.iml" afterDir="false" />
